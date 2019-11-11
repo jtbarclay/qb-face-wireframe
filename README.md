@@ -3,7 +3,7 @@
 ## Register
 ![Screen Shot](register.png "Screen Shot")
 
-New user registration or exhisting user login needed to continue.
+New user registration or existing user login needed to continue.
 
 ## Upload
 ![Screen Shot](upload.png "Screen Shot")
